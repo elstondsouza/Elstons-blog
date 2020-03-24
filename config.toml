@@ -15,7 +15,7 @@ profilePicture = "images/profile.png"
   [[params.socialIcons]]
   icon = "fa-linkedin"
   title = "Linkedin"
-  url = "www.linkedin.com/in/elstonndsouza"
+  url = "https://www.linkedin.com/in/elstonndsouza"
 
   [[params.socialIcons]]
   icon = "fa-github"
