@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elston Neil D&#39;Souza</title>
+    <title>Hi, I am Elston on Elston Neil D&#39;Souza</title>
     <link>https://elstondsouza.com.au/</link>
-    <description>Recent content on Elston Neil D&#39;Souza</description>
+    <description>Recent content in Hi, I am Elston on Elston Neil D&#39;Souza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Mar 2020 00:47:38 +1100</lastBuildDate>
@@ -12,12 +12,32 @@
     
     
     <item>
+      <title>Homepage</title>
+      <link>https://elstondsouza.com.au/homepage/</link>
+      <pubDate>Wed, 25 Mar 2020 02:08:16 +1100</pubDate>
+      
+      <guid>https://elstondsouza.com.au/homepage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://elstondsouza.com.au/about/</link>
+      <pubDate>Tue, 24 Mar 2020 02:49:51 +1100</pubDate>
+      
+      <guid>https://elstondsouza.com.au/about/</guid>
+      <description>Hi! I am Elston, a student in the Department of Biochemistry and Molecular Biology at the University of Melbourne and at the Baker Heart and Diabetes Institute. I am currently pursuing a Bachelor of Biomedicine (Degree with Honours) under the supervision of A/Prof David Ascher. My current research involves exploring the differences in mutational tolerances between different ethnic populations using large whole genome datasets and bioinformatics tools developed by the Ascher lab.</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://elstondsouza.com.au/contact/</link>
       <pubDate>Tue, 24 Mar 2020 02:49:51 +1100</pubDate>
       
       <guid>https://elstondsouza.com.au/contact/</guid>
-      <description></description>
+      <description>You can get in touch with me by the following ways, Email : elstonndsouza@gmail.com
+Phone : (+61) 422 896 554
+Twitter : @elston_neil</description>
     </item>
     
     <item>
@@ -37,15 +57,6 @@ gnomAD | Genome Aggregation Database by MacArthur Lab gnomAD is by far the large
       
       <guid>https://elstondsouza.com.au/intro/</guid>
       <description>Hi there, welcome to my blog</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://elstondsouza.com.au/about/</link>
-      <pubDate>Tue, 24 Mar 2020 00:47:38 +1100</pubDate>
-      
-      <guid>https://elstondsouza.com.au/about/</guid>
-      <description>Hi! I am Elston, a student in the Department of Biochemistry and Molecular Biology at the University of Melbourne and at the Baker Heart and Diabetes Institute. I am currently pursuing a Bachelor of Biomedicine (Degree with Honours) under the supervision of A/Prof David Ascher. My current research involves exploring the differences in mutational tolerances between different ethnic populations using large whole genome datasets and bioinformatics tools developed by the Ascher lab.</description>
     </item>
     
     <item>

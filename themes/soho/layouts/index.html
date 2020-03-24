@@ -1,29 +1,21 @@
-{{ define "main" -}}
-<div class="posts">
-  {{ range .Site.RegularPages -}}
-    {{ if and (or (eq .Type "post") (eq .Type "article")) (or (not (isset .Params "Hidden")) (eq .Params.Hidden false)) -}}
-    <article class="post">
-      <h1 class="post-title">
-        <a href="{{ .Permalink }}">{{ .Title }}</a>
-      </h1>
 
-      <div class="post-date">
-        <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}">{{ .Date.Format "Jan 2, 2006" }}</time> · {{ .ReadingTime }} min read
+{{ define "main" }}
+    <main aria-role="main">
+      <header class="homepage-header">
+        <h1>{{.Title}}</h1>
+        {{ with .Params.subtitle }}
+        <span class="subtitle">{{.}}</span>
+        {{ end }}
+      </header>
+      <div class="homepage-content">
+        <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+        {{.Content}}
       </div>
-
-      {{ if .Description }}
-        {{ .Description }}
-      {{ else }}
-        {{ .Summary }}
-      {{ end }}
-
-      {{ if .Truncated }}
-      <div class="read-more-link">
-        <a href="{{ .RelPermalink }}">Read More</a>
+      <div>
+        {{ range first 10 .Site.RegularPages }}
+            {{ .Render "summary"}}
+        {{ end }}
       </div>
-      {{ end }}
-    </article>
-    {{- end }}
-  {{- end }}
-</div>
-{{- end }}
+    </main>
+{{ end }}
+
