@@ -10,7 +10,6 @@ licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 # Color Palette https://coolors.co/0b3954-bfd7ea-ff6664-e0ff4f-fefffe
 themeColor = "#0b3954"
 author = "Elston D'Souza"
-description = "Computational Biology student"
 profilePicture = "images/profile.png"
  
   [[params.socialIcons]]
