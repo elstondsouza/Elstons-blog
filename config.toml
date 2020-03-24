@@ -44,5 +44,5 @@ profilePicture = "images/profile.png"
   [[menu.main]]
   name = "Contact"
   identified = "contact"
-  weight = 100
+  weight = 500
   url = "/contact/"
