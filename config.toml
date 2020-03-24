@@ -1,0 +1,49 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Elston Neil D'Souza"
+
+theme="soho"
+copyright = "Elston Neil D'Souza,  2020"
+license = "CC BY-SA 4.0"
+licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+# Color Palette https://coolors.co/0b3954-bfd7ea-ff6664-e0ff4f-fefffe
+themeColor = "#0b3954"
+[params]
+author = "Elston D'Souza"
+description = "Computational Biology student"
+profilePicture = "images/profile.png"
+ 
+  [[params.socialIcons]]
+  icon = "fa-linkedin"
+  title = "Linkedin"
+  url = "www.linkedin.com/in/elstonndsouza"
+
+  [[params.socialIcons]]
+  icon = "fa-github"
+  title = "GitHub"
+  url = "https://github.com/elston-n-dsouza/"
+
+  [[params.socialIcons]]
+  icon = "fa-twitter"
+  title = "Twitter"
+  url = "https://twitter.com/elston_neil"
+
+[menu]
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 100
+  identifier = "posts"
+  url = "/posts/"
+
+  [[menu.main]]
+  name = "About"
+  identifier = "about"
+  weight = 300
+  url = "/about/"
+
+  [[menu.main]]
+  name = "Contact"
+  identified = "contact"
+  weight = 100
+  url = "/contact/"
