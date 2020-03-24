@@ -3,12 +3,12 @@ languageCode = "en-us"
 title = "Elston Neil D'Souza"
 
 theme="soho"
+[params]
 copyright = "Elston Neil D'Souza,  2020"
 license = "CC BY-SA 4.0"
 licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 # Color Palette https://coolors.co/0b3954-bfd7ea-ff6664-e0ff4f-fefffe
 themeColor = "#0b3954"
-[params]
 author = "Elston D'Souza"
 description = "Computational Biology student"
 profilePicture = "images/profile.png"
