@@ -13,5 +13,3 @@ Have a read through [blog posts][1] where you can get a glimpse into what I find
 
 Or get in touch with me via my [contact page][2]. 📱
 
-[1]:	/posts/
-[2]:	/contact/
