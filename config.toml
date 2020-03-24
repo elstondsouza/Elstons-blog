@@ -11,7 +11,7 @@ licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 themeColor = "#0b3954"
 author = "Elston D'Souza"
 profilePicture = "images/profile.png"
- 
+math = true 
   [[params.socialIcons]]
   icon = "fa-linkedin"
   title = "Linkedin"

@@ -35,4 +35,4 @@ Okay, so we have misconstrued.
 
 
 
-
+$$F_X(t) = \int_{0}^{t} f(x) dx$$
