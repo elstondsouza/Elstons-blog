@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Elston Neil D&#39;Souza</title>
-    <link>http://elstondsouza.com.au/</link>
+    <link>https://elstondsouza.com.au/</link>
     <description>Recent content on Elston Neil D&#39;Souza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Elston Neil D&#39;Souza,  2020</copyright>
     <lastBuildDate>Tue, 24 Mar 2020 00:47:38 +1100</lastBuildDate>
     
-	<atom:link href="http://elstondsouza.com.au/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://elstondsouza.com.au/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Contact</title>
-      <link>http://elstondsouza.com.au/contact/</link>
+      <link>https://elstondsouza.com.au/contact/</link>
       <pubDate>Tue, 24 Mar 2020 02:49:51 +1100</pubDate>
       
-      <guid>http://elstondsouza.com.au/contact/</guid>
+      <guid>https://elstondsouza.com.au/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Completely Non-Exhaustive list of Large WGS/WES for Population-specific analysis</title>
-      <link>http://elstondsouza.com.au/posts/large_genome_datasets/</link>
+      <link>https://elstondsouza.com.au/posts/large_genome_datasets/</link>
       <pubDate>Tue, 24 Mar 2020 02:15:11 +1100</pubDate>
       
-      <guid>http://elstondsouza.com.au/posts/large_genome_datasets/</guid>
+      <guid>https://elstondsouza.com.au/posts/large_genome_datasets/</guid>
       <description>There have been exponential increases in the amount of data available. However the primary hurdle we all face before entering the era of precision and personalized medicine is the thorough and accurate analysis behind this data. Still, even before we aim to delve into these datasets it is clearly important that we take a step back and attempt to analyze our data careful.
 gnomAD | Genome Aggregation Database by MacArthur Lab gnomAD is by far the largest aggregation of genome and exome sequencing projects out there.</description>
     </item>
     
     <item>
       <title>Intro</title>
-      <link>http://elstondsouza.com.au/intro/</link>
+      <link>https://elstondsouza.com.au/intro/</link>
       <pubDate>Tue, 24 Mar 2020 01:06:33 +1100</pubDate>
       
-      <guid>http://elstondsouza.com.au/intro/</guid>
+      <guid>https://elstondsouza.com.au/intro/</guid>
       <description>Hi there, welcome to my blog</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://elstondsouza.com.au/about/</link>
+      <link>https://elstondsouza.com.au/about/</link>
       <pubDate>Tue, 24 Mar 2020 00:47:38 +1100</pubDate>
       
-      <guid>http://elstondsouza.com.au/about/</guid>
+      <guid>https://elstondsouza.com.au/about/</guid>
       <description>Hi! I am Elston, a student in the Department of Biochemistry and Molecular Biology at the University of Melbourne and at the Baker Heart and Diabetes Institute. I am currently pursuing a Bachelor of Biomedicine (Degree with Honours) under the supervision of A/Prof David Ascher. My current research involves exploring the differences in mutational tolerances between different ethnic populations using large whole genome datasets and bioinformatics tools developed by the Ascher lab.</description>
     </item>
     
     <item>
       <title>Graphing 101: How to carefully interpret graphs during the COVID-19 outbreak</title>
-      <link>http://elstondsouza.com.au/posts/coronavirus/</link>
+      <link>https://elstondsouza.com.au/posts/coronavirus/</link>
       <pubDate>Tue, 24 Mar 2020 00:45:28 +1100</pubDate>
       
-      <guid>http://elstondsouza.com.au/posts/coronavirus/</guid>
+      <guid>https://elstondsouza.com.au/posts/coronavirus/</guid>
       <description>It is simply no secret that the current COVID-19 epidemic has caused, at least at the time of writing, thousands of deaths, millions of isolated individuals and billions of dollars lost economically. However, at least in my view, the societal response to this epidemic has been nothing like in recent memory.
 Here in Melbourne, we are admist a shutdown of all on-essential services and many business have put measures in place to work from home.</description>
     </item>
