@@ -26,6 +26,10 @@ math = true
   icon = "fa-twitter"
   title = "Twitter"
   url = "https://twitter.com/elston_neil"
+  [[params.socialIcons]]
+  icon = "fa-instagram"
+  title = "Instagram"
+  url = "https://www.instagram.com/elstonndsouza/"
 
 [menu]
 

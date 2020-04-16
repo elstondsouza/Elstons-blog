@@ -11,4 +11,6 @@ Hi! I am Elston, a student in the Department of Biochemistry and Molecular Biolo
 
 I am interested in *population genomics, structural biology, and statistical methods.*
 
-All thoughts expressed are mine own and are in no way affiliated with the University of Melbourne or the Baker Institute. 
+Furthermore, I am  a digital consultant at [Elegant Minds](http://em.net.au) with an affinity to digital technologies and tools to help businesses make the most of the digital space. My analytical and research skills have helped numerous clients make sense of complex problems. In most cases, I am EM’s first point of call.
+
+All thoughts expressed on this site are mine own and are in no way endorsed with the University of Melbourne or the Baker Institute. 
