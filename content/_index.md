@@ -1,11 +1,11 @@
 ---
-title: "Hi, I am Elston"
+title: "Elston D'Souza, Digital Consultant and Honours Student in Biomedical Science "
 date: 2020-03-24T00:47:38+11:00
 ---
 
 ---- 
 
-### I enjoy talking about *biology*, *computers* and *maths*.
+### I enjoy talking about *biology*, *maths* and everything *digital*.
 
 Have a read through [blog posts](/posts/) where you can get a glimpse into what I find most interesting 🔍. 
 
