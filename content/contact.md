@@ -7,7 +7,7 @@ layout: "contact"
 
 ---
 
-## You can get in touch with me by the following ways, 
+## You can get in touch with me in many ways: 
 
 Email : elstonndsouza@gmail.com 
 
