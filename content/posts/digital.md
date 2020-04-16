@@ -21,7 +21,7 @@ succinctly put it, \"A Digital Transformation Is Not About Technology\".
 This is because most [digital transformation initiatives
 fail](https://www.forbes.com/sites/forbestechcouncil/2018/03/13/why-digital-transformations-fail-closing-the-900-billion-hole-in-enterprise-strategy/#2d90104d7b8b),
 at a very sobering failure rate of 70% in 2018. Add a global pandemic on
-top of that and \"Houston, we have a problem!\". There is clearly a lot
+top of that and "Houston, we have a problem!". There is clearly a lot
 that goes into the success of a digital transformation. However, from
 the digital strategy and digital marketing perspective, a lot SMB\'s
 actions do leaves a lot left to be desired.
@@ -31,13 +31,12 @@ Minds](http://em.net.au/). We have successfully used this workflow with
 our past clients with significant success. The players may have changed,
 but the game remains the same.
 
-## Building a winning [digital strategy]{.underline} 
+## Building a winning digital strategy 
 
-![No alt text provided for this image](/image1.jpg){width="6.5in"
-height="4.333333333333333in"}
+![Building a digital strategy](/image1.jpg)
 
-Craving a niche in the digital space requires a digital strategy.
 
+*Craving a niche in the digital space requires a digital strategy.*
 Even before starting your advertising campaigns you, as a business owner
 need to honestly ask yourself if your business can adapt to the digital
 landscape. Understand your key objectives. Are they to increase
@@ -63,13 +62,12 @@ strategy is settled, everything else just falls in place. Your strategy
 decides how you build your website, Facebook page, Google My Business
 listing. And you advertise through digital advertising platforms.
 
-## Create the perfect [digital medium]{.underline} for a seamless conversion.
+## Create the perfect digital medium for a seamless conversion.
 
-![No alt text provided for this image](image4.jpg){width="6.5in"
-height="4.333333333333333in"}
+![Perfect Digital Medium](/image4.jpg)
 
-Seamless conversions call for creative and careful digital optimization;
-it is the only way to keep your customers once they have found you.
+*Seamless conversions call for creative and careful digital optimization;
+it is the only way to keep your customers once they have found you.*
 
 To create the perfect digital medium, you need to pay attention to a
 whole host of factors. Content, SEO, Design\...and so on. First and
@@ -84,14 +82,13 @@ don\'t leave out of frustration. Finally, understand the benefits of a
 good UI/UX, as most users are drawn to aesthetically pleasing and
 intuitive interfaces. Every minute detail counts!
 
-## Use [digital advertising]{.underline} to reel in a larger audience. 
+## Use digital advertising to reel in a larger audience. 
 
-![No alt text provided for this image](image2.jpg){width="6.5in"
-height="4.875in"}
+![Digital advertising](/image2.jpg)
 
-Whatever your key objectives are, a well-executed advertising campaign
+*Whatever your key objectives are, a well-executed advertising campaign
 along with a great product almost always increases Return on Advertising
-Spend (ROAS).
+Spend (ROAS).*
 
 If you have never used digital advertising for your product, well you
 are in luck. Many advertising platforms offer free advertising credits
@@ -117,11 +114,11 @@ stretch a constrained advertising budget.
 
 ## Measure, Analyze and Experiment
 
-![No alt text provided for this image](./image3.jpg){width="6.5in"
-height="4.319444444444445in"}
+![Analytics image](/image3.jpg)
 
-Becoming a contender in the digital space is an iterative process. Far
-too many businesses think that a website or a Facebook Page is a
+*Becoming a contender in the digital space is an iterative process.*
+
+Far too many businesses think that a website or a Facebook Page is a
 set-it-and-forget-about-it thing. This belief is plain false. Remember
 when we said that measurement and tracking were easy? This is partly
 true, as one doesn't need to tinker constantly setting up a Google
