@@ -26,11 +26,14 @@ math = true
   icon = "fa-twitter"
   title = "Twitter"
   url = "https://twitter.com/elston_neil"
+
   [[params.socialIcons]]
   icon = "fa-instagram"
   title = "Instagram"
   url = "https://www.instagram.com/elstonndsouza/"
-
+	[[params.socialIcons]]
+	icon = "fa-orcid"
+	url = "https://orcid.org/0000-0002-5394-7260"
 [menu]
 
   [[menu.main]]

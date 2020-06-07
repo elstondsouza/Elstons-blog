@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hi, I am Elston on Elston Neil D&#39;Souza</title>
+    <title>Elston D&#39;Souza, Digital Consultant and Honours Student in Biomedical Science  on Elston Neil D&#39;Souza</title>
     <link>https://elstondsouza.com.au/</link>
-    <description>Recent content in Hi, I am Elston on Elston Neil D&#39;Souza</description>
+    <description>Recent content in Elston D&#39;Souza, Digital Consultant and Honours Student in Biomedical Science  on Elston Neil D&#39;Souza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Mar 2020 00:47:38 +1100</lastBuildDate>
@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>Homepage</title>
-      <link>https://elstondsouza.com.au/homepage/</link>
-      <pubDate>Wed, 25 Mar 2020 02:08:16 +1100</pubDate>
+      <title>How to take your small business digital during coronavirus</title>
+      <link>https://elstondsouza.com.au/posts/digital/</link>
+      <pubDate>Thu, 16 Apr 2020 00:45:28 +1100</pubDate>
       
-      <guid>https://elstondsouza.com.au/homepage/</guid>
-      <description></description>
+      <guid>https://elstondsouza.com.au/posts/digital/</guid>
+      <description>We are amidst challenging times where social distancing has stunted many business&amp;rsquo; growth. While in other times, the digital space was primarily used to complement a physical presence as a lead generation mechanism, the current situation has afforded a new opportunity to enter the digital space. The beauty of digital is in the fact that virtual interactions with your customer may completely replace existing physical interactions.
+Despite the allure of a setting up shop completely virtual, there are so many ways to get it wrong.</description>
     </item>
     
     <item>
@@ -35,38 +36,12 @@
       <pubDate>Tue, 24 Mar 2020 02:49:51 +1100</pubDate>
       
       <guid>https://elstondsouza.com.au/contact/</guid>
-      <description>You can get in touch with me by the following ways, Email : elstonndsouza@gmail.com
+      <description>You can get in touch with me in many ways: Email : elstonndsouza@gmail.com
 Phone : (+61) 422 896 554
-Twitter : @elston_neil</description>
-    </item>
-    
-    <item>
-      <title>A Completely Non-Exhaustive list of Large WGS/WES for Population-specific analysis</title>
-      <link>https://elstondsouza.com.au/posts/large_genome_datasets/</link>
-      <pubDate>Tue, 24 Mar 2020 02:15:11 +1100</pubDate>
-      
-      <guid>https://elstondsouza.com.au/posts/large_genome_datasets/</guid>
-      <description>There have been exponential increases in the amount of data available. However the primary hurdle we all face before entering the era of precision and personalized medicine is the thorough and accurate analysis behind this data. Still, even before we aim to delve into these datasets it is clearly important that we take a step back and attempt to analyze our data careful.
-gnomAD | Genome Aggregation Database by MacArthur Lab gnomAD is by far the largest aggregation of genome and exome sequencing projects out there.</description>
-    </item>
-    
-    <item>
-      <title>Intro</title>
-      <link>https://elstondsouza.com.au/intro/</link>
-      <pubDate>Tue, 24 Mar 2020 01:06:33 +1100</pubDate>
-      
-      <guid>https://elstondsouza.com.au/intro/</guid>
-      <description>Hi there, welcome to my blog</description>
-    </item>
-    
-    <item>
-      <title>Graphing 101: How to carefully interpret graphs during the COVID-19 outbreak</title>
-      <link>https://elstondsouza.com.au/posts/coronavirus/</link>
-      <pubDate>Tue, 24 Mar 2020 00:45:28 +1100</pubDate>
-      
-      <guid>https://elstondsouza.com.au/posts/coronavirus/</guid>
-      <description>It is simply no secret that the current COVID-19 epidemic has caused, at least at the time of writing, thousands of deaths, millions of isolated individuals and billions of dollars lost economically. However, at least in my view, the societal response to this epidemic has been nothing like in recent memory.
-Here in Melbourne, we are admist a shutdown of all on-essential services and many business have put measures in place to work from home.</description>
+Twitter : @elston_neil
+GitHub : elston-n-dsouza
+LinkedIn : @elstonndsouza
+Instagram : elstonndsouza</description>
     </item>
     
   </channel>
