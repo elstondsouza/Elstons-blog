@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Average&family=Fjalla+One&display=swap');
+
+.post h1{
+font-family: 'Fjalla One', sans-serif;
+}
+.post p {
+font-family: 'Average', serif;
+}

@@ -24,7 +24,7 @@ Get ahead of the competition!
 
 Small businesses, especially B2C, need to listen to dip their toes in the water and understand their demographics before throwing in money into advertising. Consumer preferences have largely shifted from even just a few months ago. Hence, have a look and review your prior customers and go the extra-mile to target “cash-rich or long-term-oriented” customers.
 
-Align your core message with your customer’s expectations
+## Align your core message with your customer’s expectations
  
 Current surveys suggest that factors such as consumer-responsibility, and image are important themes to incorporate into your core message.
 
