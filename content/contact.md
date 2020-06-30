@@ -1,10 +1,8 @@
 ---
 title: "Contact"
 date: 2020-03-24T02:49:51+11:00
+author: "Elston N. D'Souza"
 description : "Contact Details"
-type : "contactlayout"
-layout: "contact"
-
 ---
 
 ## You can get in touch with me in many ways: 

@@ -2,6 +2,10 @@ baseURL = "https://elstondsouza.com.au/"
 languageCode = "en-us"
 title = "Elston Neil D'Souza"
 
+## Custom CSS 
+customCss = ["css/blog.css"]
+#customJs = ["js/blog.js"]
+
 theme="soho"
 [params]
 copyright = "Elston Neil D'Souza"
@@ -12,6 +16,7 @@ themeColor = "#0b3954"
 author = "Elston D'Souza"
 profilePicture = "images/profile.png"
 math = true 
+
   [[params.socialIcons]]
   icon = "fa-linkedin"
   title = "Linkedin"
