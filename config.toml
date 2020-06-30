@@ -37,10 +37,16 @@ math = true
 [menu]
 
   [[menu.main]]
-  name = "Posts"
+  name = "Blog"
   weight = 100
   identifier = "posts"
-  url = "/posts/"
+  url = "/blog/"
+
+	[[menu.main]]
+  name = "Publications"
+  identifier = "publications"
+  weight = 300
+  url = "/publications/"
 
   [[menu.main]]
   name = "About"

@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://elstondsouza.com.au/posts/digital/</loc>
-    <lastmod>2020-04-16T00:45:28+11:00</lastmod>
+    <loc>https://elstondsouza.com.au/blog/</loc>
+    <lastmod>2020-06-30T00:45:28+11:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elstondsouza.com.au/posts/</loc>
+    <loc>https://elstondsouza.com.au/blog/reigniting/</loc>
+    <lastmod>2020-06-30T00:45:28+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elstondsouza.com.au/blog/digital/</loc>
     <lastmod>2020-04-16T00:45:28+11:00</lastmod>
   </url>
   
@@ -19,6 +24,11 @@
   
   <url>
     <loc>https://elstondsouza.com.au/contact/</loc>
+    <lastmod>2020-03-24T02:49:51+11:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://elstondsouza.com.au/publications/</loc>
     <lastmod>2020-03-24T02:49:51+11:00</lastmod>
   </url>
   

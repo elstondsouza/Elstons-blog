@@ -13,4 +13,4 @@ I am interested in *population genomics, structural biology, and statistical met
 
 Furthermore, I am  a digital consultant at [Elegant Minds](http://em.net.au) with an affinity to digital technologies and tools to help businesses make the most of the digital space. My analytical and research skills have helped numerous clients make sense of complex problems. In most cases, I am EM’s first point of call.
 
-All thoughts expressed on this site are mine own and are in no way endorsed with the University of Melbourne or the Baker Institute. 
+All thoughts expressed on this site are mine own and are in no way endorsed by the University of Melbourne, the Baker Institute or EM. 
