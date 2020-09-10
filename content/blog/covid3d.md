@@ -1,5 +1,5 @@
 ---
-title: "Exploring the structural distribution using COVID3D"
+title: "Exploring the structural distribution of SARS-CoV2 mutations using COVID3D"
 date: 2020-06-30T00:45:28+11:00
 ---
 
@@ -18,24 +18,37 @@ There has been much research and interest into mutations and pathogens.
 
 > Mutations are changes in the genetic code of an organism. They typically happen when replication or repair occurs. 
 
-Now, while most people think of X-Men mutants when they hear the word *mutation*, but far from it. Mutations, in most cases, are benign, that is they don't don't change anything to the organism. 
+Now, while most people think of X-Men mutants when they hear the word *mutation*, but far from it. Mutations, in most cases, are benign, that is they don't change the organism's power. 
 
-With that said  
+With that said, some do. But the tricky bit in genomics research is figuring out which mutations do and which don't.   
 
 # Mutations and SARS-CoV2?
+
+Mutations such as the infamous D614G in Spike have caused media to go overboard. D614G, does according to recent reports increase viral transmission. 
+
+However, we don't think this mutation will hamper current vaccine efforts. Antibodies will still recognize the Spike protein and kickstart an immune response to protect your body. At least according to [current reports](https://www.csiro.au/en/News/News-releases/2020/Covid19-expert-commentary-D614G-mutation-of-SARS-CoV-2) 
+
+Proteins are very complex things. Sometimes little mutations can have drastic effects. But what we know is that the function of a protein is completely determined by its structure. 
+
+But mutations can happen at any time. Certain mutations, for example, may stop a drug from capturing a protein. Our research and analysis showed that mutations in the Main Protease, where quite a few drugs target, may not be completely effective. This is because many mutations happen there, each of them slightly change the protein in slightly different ways. 
+
+This, is what is called drug resistance. If such mutations become more frequent, due to mismanaged outbreaks, then we are back to square one. 
+
 
 
 # Why is this important? 
 
-Mutations have been very important for a couple of reasons : 
-1. They let us appreciate the evolutionary nature of the viruses. Although a slight caveat can be introduced due the huge founders effects that we have seen with COVID-19. 
+Despite, already compelling reasons to ensure our drugs work over time. There is also another neat interpretation with mutations. 
 
-2. We can target better drugs and vaccines. To the right person / right strain and so on. Mutations can block drug binding pockets, but most importantly can lead to drug/vaccine resistance. 
+This has to do with the beauty of evolution. Mutations that happen in parts of the protein that are essential are usually lost. This is because nature selects for the one's that are advantageous due to selective pressures. 
 
-3. Evolutionary conserved regions, can serve as attractive drug targets.  
+They let us appreciate the evolutionary nature of the viruses. Although a slight caveat is the huge founders effects that we have seen with COVID-19. 
+> A founder's effect is when a mutation becomes frequent, not due to natural selection, but when it is first introduced into a new place. If say COVID-19 outbreaks happen in a place where there is little social distancing observed, they a certain mutation will become more frequent regardless whether it is advantageous or not. It's just got lucky. 
 
 
 # What can we do about it? 
+
+In order to stay a step ahead of the virus, we can try to figure out what mutations are present. And also try to simulate what mutations are possible. If this is done, they we have an understanding of  
 
 Recently, our work in the Ascher lab was published in [Nature Genetics](https://www.nature.com/articles/s41588-020-0693-3/)
 
