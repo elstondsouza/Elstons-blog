@@ -46,15 +46,21 @@ Despite, already compelling reasons to ensure our drugs work over time. There is
 This has to do with the beauty of evolution. Mutations that happen in parts of the protein that are essential are usually lost. This is because nature selects for the one's that are advantageous due to selective pressures. 
 
 They let us appreciate the evolutionary nature of the viruses. Although a slight caveat is the huge founders effects that we have seen with COVID-19. 
+
 > A founder's effect is when a mutation becomes frequent, not due to natural selection, but when it is first introduced into a new place. If say COVID-19 outbreaks happen in a place where there is little social distancing observed, they a certain mutation will become more frequent regardless whether it is advantageous or not. It's just got lucky. 
 
 
 # What can we do about it? 
 
-In order to stay a step ahead of the virus, we can try to figure out what mutations are present. And also try to simulate what mutations are possible. If this is done, they we have an understanding of  
+In order to stay a step ahead of the virus, we can try to figure out what mutations are present. And also try to simulate what mutations are possible. If this is done right, they we have an understanding of what might happen if a new mutation is spreading like wildfire and might not work with a certain drug. 
 
 Recently, our work in the Ascher lab was published in [Nature Genetics](https://www.nature.com/articles/s41588-020-0693-3/)
 
+It features our online webserver, [COVID-3D](http://biosig.unimelb.edu.au/covid3d/). COVID-3D looks at 120,000+ SARS-CoV-2 genomes (and also from SARS-CoV of SARS fame and Bat RaGT13) to look at what mutations are out there and what might potentially occur.
+
+Through **COVID-3D**, we can see how important a mutation is, does it do anything to the protein, does it interfere with drugs and more. 
+
+To get a better understanding of how we did it, have a look at our [Pursuit piece](https://pursuit.unimelb.edu.au/articles/locked-and-loaded-using-genomic-sequencing-to-target-covid-19-s-weak-spots) with A/Prof David Ascher, and Stephanie Portelli. 
 
 
 
