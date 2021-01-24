@@ -5,8 +5,6 @@ author: "Elston N. D'Souza"
 description : "Contact Details"
 ---
 
-# Contact 
-
 Email : elstonndsouza@gmail.com 
 
 Phone : (+61) 422 896 554
