@@ -1,6 +1,6 @@
 ---
 title: "Exploring the structural distribution of SARS-CoV2 mutations using COVID3D"
-date: 2020-06-30T00:45:28+11:00
+date: 2020-09-10T00:45:28+11:00
 ---
 
 The COVID-19 Pandemic is still a large part of our lives. At least, here, in Melbourne (and Victoria) at large, where Stage 4 Restrictions still being enforced. All of us have been waiting for that solace from the various drugs and vaccines that have been heralded in the news. 
