@@ -9,7 +9,7 @@ customCss = ["css/blog.css"]
 theme="soho"
 [params]
 copyright = "Elston Neil D'Souza"
-license = "CC"
+license = ""
 licenseURL = "https://elstondsouza.com.au/"
 # Color Palette https://coolors.co/0b3954-bfd7ea-ff6664-e0ff4f-fefffe
 themeColor = "#0b3954"
