@@ -7,10 +7,14 @@ description : "About elston"
 ---
 
 
-Hi! I am Elston, a student in the Department of Biochemistry and Molecular Biology at the University of Melbourne and at the Baker Heart and Diabetes Institute. I currently completed my Bachelor of Biomedicine (Degree with Honours) under the supervision of A/Prof David Ascher. My current research involves exploring the differences in **mutational tolerances** between different ethnic populations using large whole genome datasets and bioinformatics tools developed by the Ascher lab. I completed my undergraduate studies at the same university with a Bachelor of Science (Major in Computational Biology) in 2019.
+Hi! I am Elston.
 
-I am interested in *population genomics, structural biology, and statistical methods.*
+I currently work at the Computational Rare Disease Genomics Lab (under Dr. Nicky Whiffin) at the University of Oxford, in collaboration with the Center for Population Genomics (under Dr. Daniel MacArthur) based out of the Murdoch's Children's Research Institute and the Garvan Institute of Medical Research. 
 
-Furthermore, I am  a digital consultant at [Elegant Minds](http://em.net.au) with an affinity to digital technologies and tools to help businesses make the most of the digital space. My analytical and research skills have helped numerous clients make sense of complex problems. In most cases, I am EM’s first point of call.
+My current research looks at estimating how evolution act on non-coding mutations (a certain kind of mutation that appears in everyone's DNA) and better understand how (and if) they lead to medical disorders in people to help clinicians make accurate genetic diagnoses. 
 
-All thoughts expressed on this site are mine own and are in no way endorsed by the University of Melbourne, the Baker Institute or EM. 
+I completed my Bachelor of Biomedicine (Degree with Honours) under the supervision of A/Prof David Ascher at the University of Melbourne. My honours research involved exploring the differences in mutational tolerances between different ethnic populations using large whole genome datasets and bioinformatics tools developed by the Ascher lab. I completed my undergraduate studies at the same university with a Bachelor of Science (Major in Computational Biology) in 2019.
+
+Additionally, I am also the co-founder of TNK2, a cybersecurity research and development company based in Melbourne, Australia using the latest research & developments in machine learning, AI & behavioural science to help make people and organisations safer whilst using digital technologies.
+
+All thoughts expressed on this site are mine own and are in no way endorsed by any of the above affiliations. 
