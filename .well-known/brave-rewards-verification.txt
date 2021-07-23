@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: elstondsouza.com.au
-Token: 94f3986b8c5f6af73d0fa69ccd2b15add1b440bf30c9fde01537cfdb8534b006
