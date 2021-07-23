@@ -14,7 +14,7 @@ licenseURL = "https://elstondsouza.com.au/"
 # Color Palette https://coolors.co/0b3954-bfd7ea-ff6664-e0ff4f-fefffe
 themeColor = "#0b3954"
 author = "Elston D'Souza"
-profilePicture = "images/profile.png"
+profilePicture = "images/cropped.jpg"
 math = true 
 
   [[params.socialIcons]]
