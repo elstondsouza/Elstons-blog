@@ -6,10 +6,27 @@
     <description>Recent content in Blogs on Elston Neil D&#39;Souza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Jun 2020 00:45:28 +1100</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2020 00:45:28 +1100</lastBuildDate><atom:link href="https://elstondsouza.com.au/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating automated literature searches within Slack : A primer to Bash tools, APIs and Webhooks</title>
+      <link>https://elstondsouza.com.au/blog/slackriture/</link>
+      <pubDate>Thu, 10 Sep 2020 00:45:28 +1100</pubDate>
+      
+      <guid>https://elstondsouza.com.au/blog/slackriture/</guid>
+      <description>Keeping up-to-date with literature in research is really important. Since research is by its nature bleeding edge, being informed and constantly innundated at the very frontier is necessary for any budding researcher.
+However, what are the kinds of solutions that are there for our needs? Well there is Google Scholar. But it sends updates on your specific search queries to your emails. Where it can get lost within updates.
+I, for one, had unique requirements.</description>
+    </item>
     
-	<atom:link href="https://elstondsouza.com.au/blog/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Exploring the structural distribution of SARS-CoV2 mutations using COVID3D</title>
+      <link>https://elstondsouza.com.au/blog/covid3d/</link>
+      <pubDate>Thu, 10 Sep 2020 00:45:28 +1100</pubDate>
+      
+      <guid>https://elstondsouza.com.au/blog/covid3d/</guid>
+      <description>The COVID-19 Pandemic is still a large part of our lives. At least, here, in Melbourne (and Victoria) at large, where Stage 4 Restrictions still being enforced. All of us have been waiting for that solace from the various drugs and vaccines that have been heralded in the news.
+Just recently the AstraZeneca vaccine, one of the forefront and most promising efforts, has been put on hold after a reported case of an adverse reaction.</description>
+    </item>
     
     <item>
       <title>Reigniting your Digital Marketing Campaign</title>
@@ -27,7 +44,7 @@ What does history tell us? Many companies that have looked past that have disreg
       <pubDate>Thu, 16 Apr 2020 00:45:28 +1100</pubDate>
       
       <guid>https://elstondsouza.com.au/blog/digital/</guid>
-      <description>We are amidst challenging times where social distancing has stunted many business&amp;rsquo; growth. While in other times, the digital space was primarily used to complement a physical presence as a lead generation mechanism, the current situation has afforded a new opportunity to enter the digital space. The beauty of digital is in the fact that virtual interactions with your customer may completely replace existing physical interactions.
+      <description>We are amidst challenging times where social distancing has stunted many business&#39; growth. While in other times, the digital space was primarily used to complement a physical presence as a lead generation mechanism, the current situation has afforded a new opportunity to enter the digital space. The beauty of digital is in the fact that virtual interactions with your customer may completely replace existing physical interactions.
 Despite the allure of a setting up shop completely virtual, there are so many ways to get it wrong.</description>
     </item>
     

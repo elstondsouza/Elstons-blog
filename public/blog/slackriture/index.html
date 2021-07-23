@@ -5,9 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="generator" content="Hugo 0.80.0" />
 
-  <title>About &middot; Elston Neil D&#39;Souza</title>
+  <title>Creating automated literature searches within Slack : A primer to Bash tools, APIs and Webhooks &middot; Elston Neil D&#39;Souza</title>
 
-  <meta name="description" content="About elston" />
+  <meta name="description" content="" />
 
   
   <meta property="og:locale" content="en-us"/>
@@ -17,9 +17,11 @@
 
   
   <meta property="og:type" content="blog"/>
-  <meta property="og:site_name" content="Elston Neil D&#39;Souza"/><meta property="og:title" content="About"/>
-  <meta property="og:url" content="https://elstondsouza.com.au/about/"/>
-  <meta property="og:description" content="About elston"/>
+  <meta property="og:site_name" content="Elston Neil D&#39;Souza"/><meta property="og:title" content="Creating automated literature searches within Slack : A primer to Bash tools, APIs and Webhooks"/>
+  <meta property="og:url" content="https://elstondsouza.com.au/blog/slackriture/"/>
+  <meta property="og:description" content="Keeping up-to-date with literature in research is really important. Since research is by its nature bleeding edge, being informed and constantly innundated at the very frontier is necessary for any budding researcher.
+However, what are the kinds of solutions that are there for our needs? Well there is Google Scholar. But it sends updates on your specific search queries to your emails. Where it can get lost within updates.
+I, for one, had unique requirements."/>
 
   <script type="application/ld+json">
   {
@@ -163,14 +165,43 @@ font-family: 'Average', serif;
 
 </style> 
 <div class="post">
-  <h1>About</h1>
+  <h1>Creating automated literature searches within Slack : A primer to Bash tools, APIs and Webhooks</h1>
 
-  
+  <div class="post-date">
+    <time datetime="2020-09-10T00:45:28&#43;1100">Sep 10, 2020</time> · 2 min read
+  </div>
 
-  <p>Hi! I am Elston, a student in the Department of Biochemistry and Molecular Biology at the University of Melbourne and at the Baker Heart and Diabetes Institute. I currently completed my Bachelor of Biomedicine (Degree with Honours) under the supervision of A/Prof David Ascher. My current research involves exploring the differences in <strong>mutational tolerances</strong> between different ethnic populations using large whole genome datasets and bioinformatics tools developed by the Ascher lab. I completed my undergraduate studies at the same university with a Bachelor of Science (Major in Computational Biology) in 2019.</p>
-<p>I am interested in <em>population genomics, structural biology, and statistical methods.</em></p>
-<p>Furthermore, I am  a digital consultant at <a href="http://em.net.au">Elegant Minds</a> with an affinity to digital technologies and tools to help businesses make the most of the digital space. My analytical and research skills have helped numerous clients make sense of complex problems. In most cases, I am EM’s first point of call.</p>
-<p>All thoughts expressed on this site are mine own and are in no way endorsed by the University of Melbourne, the Baker Institute or EM.</p>
+  <p>Keeping up-to-date with literature in research is really important. Since research is by its nature bleeding edge, being informed and constantly innundated at the very frontier is necessary for any budding researcher.</p>
+<p>However, what are the kinds of solutions that are there for our needs? Well there is Google Scholar. But it sends updates on your specific search queries to your emails. Where it can get lost within updates.</p>
+<p><img src="" alt=""></p>
+<p>I, for one, had unique requirements. I like keeping my feeds separate and I spend most of my time on Slack and wasn&rsquo;t particularly happy with looking into my email (as I use email more of a formal communication tool). On the other hand, I have been always very intrigued by the Unix philosophy of &ldquo;modularity&rdquo; and creating &ldquo;microservices&rdquo; that do one thing and full its specific purpose very well.</p>
+<p>Now, with this there are many things</p>
+<blockquote>
+<p>Disclaimer : This is a guide explaining how to create a bot using commandline tools. It is geared towards users who have little experience with the command line. However, it is meant to be moreso a primer on the various concepts of modularity and using different tools to solve problems and the approach can be extended to other tools. So it may not be apt towards those who are more well-versed with the commandline.</p>
+</blockquote>
+<h1 id="the-anatomy-of-a-literature-search-query">The Anatomy of a Literature Search Query</h1>
+<p>A search query is defined as follows :</p>
+<blockquote>
+<p>A systematic</p>
+</blockquote>
+<h1 id="introducing-the-pubmed-api">Introducing the PUBMED API</h1>
+<p>The PubMeD</p>
+<h1 id="what-are-webhooks">What are Webhooks</h1>
+<h1 id="cron-jobs-and-how-they-work">Cron Jobs and how they work</h1>
+<h1 id="the-script">The Script</h1>
+<p>Curl is a Unix commandline tool that helps us send and recieve API get requests. Think of it as a text-based way to interact with webservers, a command line browser (if you will, but its so much more).</p>
+<pre><code class="language-{bash}" data-lang="{bash}">#!/bin/bash
+curl -wx
+
+</code></pre><h1 id="tying-it-all-together">Tying it all together</h1>
+<h1 id="learning-more-links-and-resources">Learning More, Links and Resources</h1>
+<p>Anyone who has used posted on Linux forums will tell you that it is important to RTFM (look).</p>
+<p>Since many of the tools I&rsquo;ve discussed here are very well documented, you might find it wise to have a look at  <code>man</code>.</p>
+<p><code>man</code> is a generic Unix command to find the manual. So type in <code>man cron</code> or <code>man curl</code> to find out more about the specific command used and the various <em>options</em> or <em>command-line arguments</em> that can be passed on.</p>
+<ol>
+<li>Link to the github with the <code>slackriture.sh</code></li>
+<li>Learning more about Webhooks.</li>
+</ol>
 
 </div>
 
