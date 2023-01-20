@@ -8,17 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Mar 2020 00:47:38 +1100</lastBuildDate><atom:link href="https://elstondsouza.com.au/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating automated literature searches within Slack : A primer to Bash tools, APIs and Webhooks</title>
-      <link>https://elstondsouza.com.au/blog/slackriture/</link>
-      <pubDate>Thu, 10 Sep 2020 00:45:28 +1100</pubDate>
-      
-      <guid>https://elstondsouza.com.au/blog/slackriture/</guid>
-      <description>Keeping up-to-date with literature in research is really important. Since research is by its nature bleeding edge, being informed and constantly innundated at the very frontier is necessary for any budding researcher.
-However, what are the kinds of solutions that are there for our needs? Well there is Google Scholar. But it sends updates on your specific search queries to your emails. Where it can get lost within updates.
-I, for one, had unique requirements.</description>
-    </item>
-    
-    <item>
       <title>Exploring the structural distribution of SARS-CoV2 mutations using COVID3D</title>
       <link>https://elstondsouza.com.au/blog/covid3d/</link>
       <pubDate>Thu, 10 Sep 2020 00:45:28 +1100</pubDate>
@@ -79,6 +68,15 @@ Twitter : @elston_neil</description>
       <guid>https://elstondsouza.com.au/publications/</guid>
       <description>Portelli, Stephanie, Moshe Olshansky, Carlos Henrique Miranda Rodrigues, Elston N. D&amp;rsquo;Souza, YooChan Myung, Michael Silk, Azadeh Alavi, Douglas EV Pires, and David B. Ascher. &amp;ldquo;Exploring the structural distribution of genetic variation in SARS-CoV-2 with the COVID-3D online resource&amp;rdquo; Nature Genetics (2020) (Joint First Author). [Link]
 Silk, Michael, Douglas EV Pires, Carlos HM Rodrigues, Elston N. D’Souza, Moshe Olshansky, Natalie Thorne, and David B. Ascher. &amp;ldquo;MTR3D: identifying regions within protein tertiary structures under purifying selection.</description>
+    </item>
+    
+    <item>
+      <title>Ushering the future of psychiatric research with optogenetics</title>
+      <link>https://elstondsouza.com.au/blog/optogenetics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elstondsouza.com.au/blog/optogenetics/</guid>
+      <description>Rene Decartes, once said that the mind exists separate from the body back in the 16th century. This may be why psychiatric disorders are among the most difficult to both diagnose and to treat. Many other disorders can usually be tested or imaged, whilst most psychiatric conditions still rely on individual consultations rather than examining the brain directly. To allow for a better understanding of the brain’s circuitry especially when disrupted during psychiatric disorders, Francis Crick - one of the founders of the structure of the DNA molecule suggested that neuroscience needed to have a switch that could turn specific neurons on or off.</description>
     </item>
     
   </channel>
