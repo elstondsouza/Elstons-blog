@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elston D&#39;Souza, Digital Consultant and Honours Graduate in Biomedical Science on Elston Neil D&#39;Souza</title>
+    <title>Elston D&#39;Souza, Computational Genomics Research and TNK2 Cofounder on Elston Neil D&#39;Souza</title>
     <link>https://elstondsouza.com.au/</link>
-    <description>Recent content in Elston D&#39;Souza, Digital Consultant and Honours Graduate in Biomedical Science on Elston Neil D&#39;Souza</description>
+    <description>Recent content in Elston D&#39;Souza, Computational Genomics Research and TNK2 Cofounder on Elston Neil D&#39;Souza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Mar 2020 00:47:38 +1100</lastBuildDate><atom:link href="https://elstondsouza.com.au/index.xml" rel="self" type="application/rss+xml" />
@@ -44,7 +44,7 @@ What does history tell us? Many companies that have looked past that have disreg
       <pubDate>Thu, 16 Apr 2020 00:45:28 +1100</pubDate>
       
       <guid>https://elstondsouza.com.au/blog/digital/</guid>
-      <description>We are amidst challenging times where social distancing has stunted many business&#39; growth. While in other times, the digital space was primarily used to complement a physical presence as a lead generation mechanism, the current situation has afforded a new opportunity to enter the digital space. The beauty of digital is in the fact that virtual interactions with your customer may completely replace existing physical interactions.
+      <description>We are amidst challenging times where social distancing has stunted many business&amp;rsquo; growth. While in other times, the digital space was primarily used to complement a physical presence as a lead generation mechanism, the current situation has afforded a new opportunity to enter the digital space. The beauty of digital is in the fact that virtual interactions with your customer may completely replace existing physical interactions.
 Despite the allure of a setting up shop completely virtual, there are so many ways to get it wrong.</description>
     </item>
     
@@ -54,7 +54,9 @@ Despite the allure of a setting up shop completely virtual, there are so many wa
       <pubDate>Tue, 24 Mar 2020 02:49:51 +1100</pubDate>
       
       <guid>https://elstondsouza.com.au/about/</guid>
-      <description>Hi! I am Elston, a student in the Department of Biochemistry and Molecular Biology at the University of Melbourne and at the Baker Heart and Diabetes Institute. I currently completed my Bachelor of Biomedicine (Degree with Honours) under the supervision of A/Prof David Ascher. My current research involves exploring the differences in mutational tolerances between different ethnic populations using large whole genome datasets and bioinformatics tools developed by the Ascher lab.</description>
+      <description>Hi! I am Elston.
+I currently work at the Computational Rare Disease Genomics Lab (under Dr. Nicky Whiffin) at the University of Oxford, in collaboration with the Center for Population Genomics (under Dr. Daniel MacArthur) based out of the Murdoch&amp;rsquo;s Children&amp;rsquo;s Research Institute and the Garvan Institute of Medical Research.
+My current research looks at estimating how evolution act on non-coding mutations (a certain kind of mutation that appears in everyone&amp;rsquo;s DNA) and better understand how (and if) they lead to medical disorders in people to help clinicians make accurate genetic diagnoses.</description>
     </item>
     
     <item>
@@ -75,7 +77,8 @@ Twitter : @elston_neil</description>
       <pubDate>Tue, 24 Mar 2020 02:49:51 +1100</pubDate>
       
       <guid>https://elstondsouza.com.au/publications/</guid>
-      <description> Portelli, Stephanie, Moshe Olshansky, Carlos Henrique Miranda Rodrigues, Elston N. D&amp;rsquo;Souza, YooChan Myung, Michael Silk, Azadeh Alavi, Douglas EV Pires, and David B. Ascher. &amp;ldquo;Exploring the structural distribution of genetic variation in SARS-CoV-2 with the COVID-3D online resource&amp;rdquo; Nature Genetics (2020) (Joint First Author).  </description>
+      <description>Portelli, Stephanie, Moshe Olshansky, Carlos Henrique Miranda Rodrigues, Elston N. D&amp;rsquo;Souza, YooChan Myung, Michael Silk, Azadeh Alavi, Douglas EV Pires, and David B. Ascher. &amp;ldquo;Exploring the structural distribution of genetic variation in SARS-CoV-2 with the COVID-3D online resource&amp;rdquo; Nature Genetics (2020) (Joint First Author). [Link]
+Silk, Michael, Douglas EV Pires, Carlos HM Rodrigues, Elston N. D’Souza, Moshe Olshansky, Natalie Thorne, and David B. Ascher. &amp;ldquo;MTR3D: identifying regions within protein tertiary structures under purifying selection.</description>
     </item>
     
   </channel>
