@@ -1,4 +1,4 @@
-baseURL = "https://elstondsouza.com.au/"
+baseURL = "https://elstondsouza.com/"
 languageCode = "en-us"
 title = "Elston Neil D'Souza"
 relativeURLs = true
@@ -11,7 +11,7 @@ theme="soho"
 [params]
 copyright = "Elston Neil D'Souza"
 license = ""
-licenseURL = "https://elstondsouza.com.au/"
+licenseURL = "https://elstondsouza.com/"
 # Color Palette https://coolors.co/0b3954-bfd7ea-ff6664-e0ff4f-fefffe
 themeColor = "#0b3954"
 author = "Elston D'Souza"
