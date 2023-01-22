@@ -1,6 +1,7 @@
 baseURL = "https://elstondsouza.com.au/"
 languageCode = "en-us"
 title = "Elston Neil D'Souza"
+relativeURLs = true
 
 ## Custom CSS 
 customCss = ["css/blog.css"]
