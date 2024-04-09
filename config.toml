@@ -1,24 +1,17 @@
 baseURL = "https://elstondsouza.com/"
 languageCode = "en-us"
-title = "Elston Neil D'Souza"
-relativeURLs = true
-
-
-[services]
-  [services.googleAnalytics]
-    ID = "G-70W7G09YNW"
-
-## Custom CSS 
+title = "Elston D'Souza"
+enableInlineShortcodes = true
+summarylength = 10
+enableEmoji = true
 customCss = ["css/blog.css"]
-#customJs = ["js/blog.js"]
-
 theme="soho"
+
 [params]
-copyright = "Elston Neil D'Souza"
+copyright = "Elston D'Souza"
 license = ""
 licenseURL = "https://elstondsouza.com/"
-# Color Palette https://coolors.co/0b3954-bfd7ea-ff6664-e0ff4f-fefffe
-themeColor = "#0b3954"
+themeColor = "#2B303A"
 author = "Elston D'Souza"
 profilePicture = "images/cropped.jpg"
 math = true 
@@ -41,6 +34,7 @@ math = true
 	[[params.socialIcons]]
 	icon = "fa-orcid"
 	url = "https://orcid.org/0000-0002-5394-7260"
+
 [menu]
 
   [[menu.main]]
@@ -66,3 +60,20 @@ math = true
   identified = "contact"
   weight = 500
   url = "/contact/"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true # if false, you need to provide you own custom CSS
+  style = "monokai"
+  tabWidth = 4
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-70W7G09YNW"

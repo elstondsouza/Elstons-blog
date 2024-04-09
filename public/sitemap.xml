@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://elstondsouza.com/blog/</loc>
-    <lastmod>2020-09-10T00:45:28+11:00</lastmod>
+    <lastmod>2023-01-30T00:45:28+11:00</lastmod>
+  </url><url>
+    <loc>https://elstondsouza.com/blog/optogenetics/</loc>
+    <lastmod>2023-01-30T00:45:28+11:00</lastmod>
   </url><url>
     <loc>https://elstondsouza.com/blog/covid3d/</loc>
     <lastmod>2020-09-10T00:45:28+11:00</lastmod>
@@ -29,7 +32,5 @@
     <loc>https://elstondsouza.com/categories/</loc>
   </url><url>
     <loc>https://elstondsouza.com/tags/</loc>
-  </url><url>
-    <loc>https://elstondsouza.com/blog/optogenetics/</loc>
   </url>
 </urlset>

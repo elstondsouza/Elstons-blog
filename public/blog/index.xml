@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Elston Neil D&#39;Souza</title>
+    <title>Blogs on Elston D&#39;Souza</title>
     <link>https://elstondsouza.com/blog/</link>
-    <description>Recent content in Blogs on Elston Neil D&#39;Souza</description>
+    <description>Recent content in Blogs on Elston D&#39;Souza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Sep 2020 00:45:28 +1100</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jan 2023 00:45:28 +1100</lastBuildDate>
     <atom:link href="https://elstondsouza.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ushering the future of psychiatric research with optogenetics</title>
+      <link>https://elstondsouza.com/blog/optogenetics/</link>
+      <pubDate>Mon, 30 Jan 2023 00:45:28 +1100</pubDate>
+      <guid>https://elstondsouza.com/blog/optogenetics/</guid>
+      <description>Rene Decartes, once said that the mind exists separate from the body back in the 16th century.</description>
+    </item>
     <item>
       <title>Exploring the structural distribution of SARS-CoV2 mutations using COVID3D</title>
       <link>https://elstondsouza.com/blog/covid3d/</link>
       <pubDate>Thu, 10 Sep 2020 00:45:28 +1100</pubDate>
       <guid>https://elstondsouza.com/blog/covid3d/</guid>
-      <description>The COVID-19 Pandemic is still a large part of our lives. At least, here, in Melbourne (and Victoria) at large, where Stage 4 Restrictions still being enforced. All of us have been waiting for that solace from the various drugs and vaccines that have been heralded in the news.&#xA;Just recently the AstraZeneca vaccine, one of the forefront and most promising efforts, has been put on hold after a reported case of an adverse reaction.</description>
+      <description>The COVID-19 Pandemic is still a large part of our lives.</description>
     </item>
     <item>
       <title>Reigniting your Digital Marketing Campaign</title>
       <link>https://elstondsouza.com/blog/reigniting/</link>
       <pubDate>Tue, 30 Jun 2020 00:45:28 +1100</pubDate>
       <guid>https://elstondsouza.com/blog/reigniting/</guid>
-      <description>Most small businesses around this time have started opening up again and have been looking into the different opportunities to gain their audiences back. Does marketing make sense right now? When is the right time to resume advertising and how do you go about it?&#xA;What does history tell us? Many companies that have looked past that have disregarded advertising during recessions and epidemics have been thrust to the wayside. If history has taught us anything - those who remain proactive during a crisis are often the ones who come out on top.</description>
+      <description>Most small businesses around this time have started opening up again and have been looking into the different opportunities to gain their audiences back.</description>
     </item>
     <item>
       <title>How to take your small business digital during coronavirus</title>
       <link>https://elstondsouza.com/blog/digital/</link>
       <pubDate>Thu, 16 Apr 2020 00:45:28 +1100</pubDate>
       <guid>https://elstondsouza.com/blog/digital/</guid>
-      <description>We are amidst challenging times where social distancing has stunted many business&amp;rsquo; growth. While in other times, the digital space was primarily used to complement a physical presence as a lead generation mechanism, the current situation has afforded a new opportunity to enter the digital space. The beauty of digital is in the fact that virtual interactions with your customer may completely replace existing physical interactions.&#xA;Despite the allure of a setting up shop completely virtual, there are so many ways to get it wrong.</description>
-    </item>
-    <item>
-      <title>Ushering the future of psychiatric research with optogenetics</title>
-      <link>https://elstondsouza.com/blog/optogenetics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://elstondsouza.com/blog/optogenetics/</guid>
-      <description>Rene Decartes, once said that the mind exists separate from the body back in the 16th century. This may be why psychiatric disorders are among the most difficult to both diagnose and to treat. Many other disorders can usually be tested or imaged, whilst most psychiatric conditions still rely on individual consultations rather than examining the brain directly. To allow for a better understanding of the brain’s circuitry especially when disrupted during psychiatric disorders, Francis Crick - one of the founders of the structure of the DNA molecule suggested that neuroscience needed to have a switch that could turn specific neurons on or off.</description>
+      <description>We are amidst challenging times where social distancing has stunted many business&amp;rsquo; growth.</description>
     </item>
   </channel>
 </rss>
