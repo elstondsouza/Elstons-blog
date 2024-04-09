@@ -2,6 +2,7 @@ baseURL = "https://elstondsouza.com/"
 languageCode = "en-us"
 title = "Elston Neil D'Souza"
 relativeURLs = true
+googleAnalytics = "G-70W7G09YNW"
 
 ## Custom CSS 
 customCss = ["css/blog.css"]
