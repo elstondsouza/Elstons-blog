@@ -1,6 +1,6 @@
 ---
 title: "Ushering the future of psychiatric research with optogenetics"
-date: 2023-01-05
+date: 2023-01-30T00:45:28+11:00
 ---
 
 
