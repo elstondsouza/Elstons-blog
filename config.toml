@@ -1,9 +1,7 @@
 baseURL = "https://elstondsouza.com/"
 languageCode = "en-us"
 title = "Elston D'Souza"
-enableInlineShortcodes = true
-summarylength = 10
-enableEmoji = true
+summarylength = 30
 customCss = ["css/blog.css"]
 theme="soho"
 

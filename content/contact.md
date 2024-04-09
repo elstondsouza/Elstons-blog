@@ -7,8 +7,6 @@ description : "Contact Details"
 
 Email : elstonndsouza@gmail.com 
 
-Phone : (+61) 422 896 554
-
 LinkedIn : [@elstonndsouza](https://www.linkedin.com/in/elstonndsouza/) 
 
 Twitter : [@elston_neil](https://twitter.com/elston_neil)
