@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Elston D&#39;Souza</title>
-    <link>https://elstondsouza.com/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on Elston D&#39;Souza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 30 Jan 2023 00:45:28 +1100</lastBuildDate>
-    <atom:link href="https://elstondsouza.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ushering the future of psychiatric research with optogenetics</title>
-      <link>https://elstondsouza.com/blog/optogenetics/</link>
+      <link>http://localhost:1313/blog/optogenetics/</link>
       <pubDate>Mon, 30 Jan 2023 00:45:28 +1100</pubDate>
-      <guid>https://elstondsouza.com/blog/optogenetics/</guid>
+      <guid>http://localhost:1313/blog/optogenetics/</guid>
       <description>Rene Decartes, once said that the mind exists separate from the body back in the 16th century. This may be why psychiatric disorders are among the most difficult to both diagnose and to treat.</description>
     </item>
     <item>
       <title>What&#39;s stopping ASOs from solving personalised medicine?</title>
-      <link>https://elstondsouza.com/blog/asos/</link>
+      <link>http://localhost:1313/blog/asos/</link>
       <pubDate>Tue, 29 Nov 2022 00:45:28 +1100</pubDate>
-      <guid>https://elstondsouza.com/blog/asos/</guid>
+      <guid>http://localhost:1313/blog/asos/</guid>
       <description>Living with a rare disease is difficult. Some would describe it as dealing with the feelings of uncertainty of finding a diagnosis. And most go a lifetime knowing full well that there might never be a cure.</description>
     </item>
     <item>
       <title>Isomorphic Labs: Google&#39;s bet on AI-powered drug discovery</title>
-      <link>https://elstondsouza.com/blog/isomorphiclabs/</link>
+      <link>http://localhost:1313/blog/isomorphiclabs/</link>
       <pubDate>Thu, 16 Dec 2021 00:45:28 +1100</pubDate>
-      <guid>https://elstondsouza.com/blog/isomorphiclabs/</guid>
+      <guid>http://localhost:1313/blog/isomorphiclabs/</guid>
       <description>This past year has been an incredibly exciting time for personalized medicine.&#xA;Among exciting developments was the public release of AlphaFold2, a piece of software designed by the Alphabet Inc. subsidiary, DeepMind, to predict the structure of proteins.</description>
     </item>
     <item>
       <title>Genomes in the Cloud and the Law of the Land</title>
-      <link>https://elstondsouza.com/blog/cloud_genomes/</link>
+      <link>http://localhost:1313/blog/cloud_genomes/</link>
       <pubDate>Sun, 21 Nov 2021 00:45:28 +1100</pubDate>
-      <guid>https://elstondsouza.com/blog/cloud_genomes/</guid>
+      <guid>http://localhost:1313/blog/cloud_genomes/</guid>
       <description>How likely would you be to hand over your DNA sequence if you knew your genome was stored in the cloud - perhaps on a server overseas?&#xA;By 2025, it is estimated that we will have sequenced up to 40 exabytes of genetic data (National Human Genome Research Institute, 2021).</description>
     </item>
     <item>
       <title>Exploring the structural distribution of SARS-CoV2 mutations using COVID3D</title>
-      <link>https://elstondsouza.com/blog/covid3d/</link>
+      <link>http://localhost:1313/blog/covid3d/</link>
       <pubDate>Thu, 10 Sep 2020 00:45:28 +1100</pubDate>
-      <guid>https://elstondsouza.com/blog/covid3d/</guid>
+      <guid>http://localhost:1313/blog/covid3d/</guid>
       <description>The COVID-19 Pandemic is still a large part of our lives. At least, here, in Melbourne (and Victoria) at large, where Stage 4 Restrictions still being enforced. All of us have been waiting for that solace from the various drugs and vaccines that have been heralded in the news.</description>
     </item>
     <item>
       <title>Reigniting your Digital Marketing Campaign</title>
-      <link>https://elstondsouza.com/blog/reigniting/</link>
+      <link>http://localhost:1313/blog/reigniting/</link>
       <pubDate>Tue, 30 Jun 2020 00:45:28 +1100</pubDate>
-      <guid>https://elstondsouza.com/blog/reigniting/</guid>
+      <guid>http://localhost:1313/blog/reigniting/</guid>
       <description>Most small businesses around this time have started opening up again and have been looking into the different opportunities to gain their audiences back. Does marketing make sense right now? When is the right time to resume advertising and how do you go about it?</description>
     </item>
     <item>
       <title>Isomorphic Labs: Google&#39;s bet on AI-powered drug discovery</title>
-      <link>https://elstondsouza.com/blog/digital/</link>
+      <link>http://localhost:1313/blog/digital/</link>
       <pubDate>Thu, 16 Apr 2020 00:45:28 +1100</pubDate>
-      <guid>https://elstondsouza.com/blog/digital/</guid>
+      <guid>http://localhost:1313/blog/digital/</guid>
       <description>We are amidst challenging times where social distancing has stunted many business&amp;rsquo; growth. While in other times, the digital space was primarily used to complement a physical presence as a lead generation mechanism, the current situation has afforded a new opportunity to enter the digital space.</description>
     </item>
   </channel>
