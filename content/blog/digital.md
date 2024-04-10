@@ -1,5 +1,5 @@
 ---
-title: "Isomorphic Labs: Google's bet on AI-powered drug discovery"
+title: "How to take your small business digital during coronavirus"
 date: 2020-04-16T00:45:28+11:00
 ---
 
