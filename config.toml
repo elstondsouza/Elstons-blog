@@ -72,6 +72,3 @@ math = true
   style = "monokai"
   tabWidth = 4
 
-[services]
-  [services.googleAnalytics]
-    ID = "G-70W7G09YNW"
