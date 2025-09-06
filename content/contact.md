@@ -5,7 +5,7 @@ author: "Elston N. D'Souza"
 description : "Contact Details"
 ---
 
-Email : elstonndsouza@gmail.com 
+Email : contact@elstondsouza.com 
 
 LinkedIn : [@elstonndsouza](https://www.linkedin.com/in/elstonndsouza/) 
 
